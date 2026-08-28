@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/aniksahai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/n1kdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 <a href="https://aniksahai.com"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-<a href="https://huggingface.co/AnikS22"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 
 <br>
 
