@@ -84,11 +84,4 @@ to learn as fast as human brains.
   <img src="https://raw.githubusercontent.com/AnikS22/AnikS22/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
-<br>
-
-## `~/` the numbers
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnikS22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikS22&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
-
 </div>
