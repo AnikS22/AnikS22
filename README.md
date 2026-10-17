@@ -31,10 +31,10 @@ whole stack, from wiring and firmware to ROS 2, perception, and models.
 ## Projects
 
 - **[utp_robot](https://github.com/AnikS22/utp_robot)**: the physical stack for GAIN. ROS 2 Jazzy, a fail-closed safety mux, a VLM + open-vocabulary detector for finding ADA push plates, and an experiment log that records the failures as well as the successes.
-- **[golf-cart-code](https://github.com/AnikS22/golf-cart-code)**: converting a 2018 GEM e4 into a drive-by-wire autonomous vehicle at FAU. Firmware, ROS 2 stack, and a Gazebo twin of the Boca campus.
+- **Self-driving golf cart**: converting a 2018 GEM e4 into a drive-by-wire autonomous vehicle at FAU. Firmware, ROS 2 stack, and a Gazebo twin of the Boca campus.
 - **[MidasMap](https://github.com/AnikS22/MidasMap)**: detecting immunogold particles in TEM synapse images (CenterNet, CEM500K backbone, BiFPN).
 - **[larvatrack](https://github.com/AnikS22/larvatrack)**: measures how far Drosophila larvae crawl, from a phone video. Built for Drosophila motor-behavior experiments in an FAU neurobiology course.
-- **[EEG-Signal-CoLabs](https://github.com/AnikS22/EEG-Signal-CoLabs)**: emotion decoding from EEG on BS-HMS (Random Forest, 89% happy vs. sad).
+- **[EEG-Signal-CoLabs](https://github.com/AnikS22/EEG-Signal-CoLabs)**: per-subject classifiers on BS-HMS EEG and wrist-motion data, telling apart four activities around happy and sad videos (Random Forest, about 85% mean validation accuracy over 31 subjects).
 - **[DR_Project](https://github.com/AnikS22/DR_Project)**: on-device diabetic-retinopathy screening from a live camera feed. Built in 8th grade; 1st place at the Florida state middle-school science fair ([AP](https://www.csmonitor.com/USA/Education/2024/0507/Florida-school-creative-curriculum-inspires)).
 
 ## Experience
