@@ -59,9 +59,10 @@ to learn as fast as human brains.
 
 ## `~/` selected work
 
-- **FLARE** — Predicting vision-language-action policy failures from frozen activations. AUROC 0.79, sub-millisecond overhead.
+- **FLARE** — Predicting vision-language-action policy failures from frozen activations. AUC 0.83–0.89, sub-millisecond overhead.
 - **Unlocking the Path** — Robotic navigation that treats doors and elevators as permeable states — cheaper and more accurate.
 - **PhysMent** — *Accepted to the ICML 2026 AI4Math Workshop.* A MuJoCo benchmark testing whether LLMs can reason about physics by actively experimenting with simulated environments.
+- **[Aperion](https://github.com/AnikS22/IBM_Qiskit_Fallfest)** — Quantum wave simulation for portable stroke imaging, built in 48 hours at Qiskit Fall Fest 2026 and run on a real 156-qubit IBM Heron.
 - **Self-Driving Golf Cart** — 2018 Gem e4 converted to full drive-by-wire on a unified ROS control stack.
 - **Who Do You Think You're Talking To** — Longitudinal study showing AI identity disclosure significantly shapes relational communication.
 
